@@ -9,7 +9,7 @@ export default function Footer() {
                 <a
                   target="_blank"
                   rel="noreferrer"
-                  href="https://github.com/thehatclub/portfolio/blob/main/LICENSE"
+                  href="https://github.com/thehatclub/portfolio/blob/main/LICENCE"
                 >
                   MIT License
                 </a>
