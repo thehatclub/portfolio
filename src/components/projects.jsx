@@ -18,11 +18,11 @@ export default function Projects() {
               >
                 <img
                   className="object-cover w-full h-52 dark:bg-zinc-500"
+                  alt="Anime Archive"
                   src="https://github.com/thehatclub/anime-archive/blob/main/client/public/logo.png?raw=true"
                 />
               </a>
               <div className="flex flex-col flex-1 p-6">
-                <a target="_blank" rel="noreferrer" href="#"></a>
                 <a
                   target="_blank"
                   rel="noreferrer"
@@ -49,12 +49,12 @@ export default function Projects() {
                 href="https://whimsigains.hatclub.dev/"
               >
                 <img
+                  alt="Whimsigains"
                   className="object-cover w-full h-52 dark:bg-zinc-500"
                   src="https://raw.githubusercontent.com/thehatclub/whimsigains/04205a8fe185530cb643e289100108e713665ed1/static/strong.svg"
                 />
               </a>
               <div className="flex flex-col flex-1 p-6">
-                <a target="_blank" rel="noreferrer" href="#"></a>
                 <a
                   target="_blank"
                   rel="noreferrer"
@@ -81,12 +81,12 @@ export default function Projects() {
                 href="https://ethics.hatclub.dev/"
               >
                 <img
+                  alt="ChatGPT"
                   className="object-cover w-full h-52 dark:bg-zinc-500"
                   src="https://github.com/thehatclub/ethics/blob/main/openai.png?raw=true"
                 />
               </a>
               <div className="flex flex-col flex-1 p-6">
-                <a target="_blank" rel="noreferrer" href="#"></a>
                 <a
                   target="_blank"
                   rel="noreferrer"

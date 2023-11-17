@@ -16,7 +16,7 @@ export default function Nav() {
           </ul>
           <a
             rel="noopener noreferrer"
-            href="#"
+            href="#home"
             aria-label="Back to homepage"
             className="flex items-center p-2"
           >
