@@ -17,6 +17,7 @@ export default function Hero() {
             <div className="flex flex-col space-y-4 sm:items-center sm:justify-center sm:flex-row sm:space-y-0 sm:space-x-4 lg:justify-start">
               <a
                 target="_blank"
+                rel="noreferrer"
                 href="https://github.com/thehatclub"
                 className="px-8 py-3 text-lg font-semibold rounded dark:bg-amber-400 dark:text-zinc-900"
               >
@@ -24,6 +25,7 @@ export default function Hero() {
               </a>
               <a
                 target="_blank"
+                rel="noreferrer"
                 href="https://www.linkedin.com/in/trsmiley/"
                 className="px-8 py-3 text-lg font-semibold border rounded dark:border-zinc-100"
               >

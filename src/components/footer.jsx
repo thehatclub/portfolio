@@ -8,6 +8,7 @@ export default function Footer() {
               <li>
                 <a
                   target="_blank"
+                  rel="noreferrer"
                   href="https://github.com/thehatclub/portfolio/blob/main/LICENSE"
                 >
                   MIT License
@@ -24,7 +25,11 @@ export default function Footer() {
                 </svg>
               </div>
               <li>
-                <a target="_blank" href="https://github.com/thehatclub">
+                <a
+                  target="_blank"
+                  rel="noreferrer"
+                  href="https://github.com/thehatclub"
+                >
                   Github
                 </a>
               </li>

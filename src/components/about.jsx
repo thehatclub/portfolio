@@ -16,6 +16,7 @@ export default function About() {
           </p>
           <a
             target="_blank"
+            rel="noreferrer"
             href="https://www.linkedin.com/in/trsmiley/"
             className="px-8 py-3 text-lg font-semibold rounded dark:bg-zinc-800 dark:text-zinc-50"
           >

@@ -11,16 +11,21 @@ export default function Projects() {
           </div>
           <div className="grid grid-cols-1 gap-x-4 gap-y-8 md:grid-cols-2 lg:grid-cols-4">
             <article className="flex flex-col dark:bg-zinc-900">
-              <a target="_blank" href="https://archive.hatclub.dev/">
+              <a
+                target="_blank"
+                rel="noreferrer"
+                href="https://archive.hatclub.dev/"
+              >
                 <img
                   className="object-cover w-full h-52 dark:bg-zinc-500"
                   src="https://github.com/thehatclub/anime-archive/blob/main/client/public/logo.png?raw=true"
                 />
               </a>
               <div className="flex flex-col flex-1 p-6">
-                <a target="_blank" href="#"></a>
+                <a target="_blank" rel="noreferrer" href="#"></a>
                 <a
                   target="_blank"
+                  rel="noreferrer"
                   href="https://github.com/thehatclub/anime-archive"
                   className="text-xs tracki uppercase hover:underline dark:text-amber-400"
                 >
@@ -38,16 +43,21 @@ export default function Projects() {
               </div>
             </article>
             <article className="flex flex-col dark:bg-zinc-900">
-              <a target="_blank" href="https://whimsigains.hatclub.dev/">
+              <a
+                target="_blank"
+                rel="noreferrer"
+                href="https://whimsigains.hatclub.dev/"
+              >
                 <img
                   className="object-cover w-full h-52 dark:bg-zinc-500"
                   src="https://raw.githubusercontent.com/thehatclub/whimsigains/04205a8fe185530cb643e289100108e713665ed1/static/strong.svg"
                 />
               </a>
               <div className="flex flex-col flex-1 p-6">
-                <a target="_blank" href="#"></a>
+                <a target="_blank" rel="noreferrer" href="#"></a>
                 <a
                   target="_blank"
+                  rel="noreferrer"
                   href="https://github.com/thehatclub/whimsigains"
                   className="text-xs tracki uppercase hover:underline dark:text-amber-400"
                 >
@@ -65,16 +75,21 @@ export default function Projects() {
               </div>
             </article>
             <article className="flex flex-col dark:bg-zinc-900">
-              <a target="_blank" href="https://ethics.hatclub.dev/">
+              <a
+                target="_blank"
+                rel="noreferrer"
+                href="https://ethics.hatclub.dev/"
+              >
                 <img
                   className="object-cover w-full h-52 dark:bg-zinc-500"
                   src="https://github.com/thehatclub/ethics/blob/main/openai.png?raw=true"
                 />
               </a>
               <div className="flex flex-col flex-1 p-6">
-                <a target="_blank" href="#"></a>
+                <a target="_blank" rel="noreferrer" href="#"></a>
                 <a
                   target="_blank"
+                  rel="noreferrer"
                   href="https://github.com/thehatclub/ethics"
                   className="text-xs tracki uppercase hover:underline dark:text-amber-400"
                 >
